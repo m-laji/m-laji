@@ -2,15 +2,23 @@
 
 <!--
 **m-laji/m-laji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/m-laji/m-laji-/assets/111758253/80e0a0a4-ef73-484d-ae0f-9c1ffec63521" width="225" height="225" alt="Doctor" style="border:2px solid black;"/>
+🔍 Professional Focus:
 
-Here are some ideas to get you started:
+    Currently fine-tuning ViT-MAE foundational models, specializing in histopathological image analysis and EEG interpretation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Current Learning Endeavors:
+
+    Deep diving into the world of Generative AI models, with a particular focus on Generative Adversarial Networks (GAN).
+
+🤝 Collaboration Opportunities:
+
+    Eager to collaborate on innovative AI solutions targeting medical challenges.
+
+🩺 About Me:
+
+    I'm a medical doctor currently pursuing a Master's in Health Informatics, with a deep focus on deep learning technologies.
+
+🗨️ Let's Connect:
+
+    Have questions or want to discuss potential collaborations? I'm open for a chat! Reach me on LinkedIn: Michel Laji.
